@@ -20,4 +20,4 @@ Python Livox lidar decoder is currently compatible with 0 to 6 data types. And a
 [4, 71959, 8530, -2368, 4, 74225, 8799, -2443, 0]<br />
 
 **Configuration:**<br />
-Replace the 'YourlvxFilePathHere' to your lvx file path.
+Replace the 'YourlvxFilePathHere' with your lvx file path.
